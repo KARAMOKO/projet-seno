@@ -1,0 +1,63 @@
+/* style.css */
+
+html,
+
+body {
+    height: 100%;
+    font-family: 'Open Sans' sans-serif helvetica;
+}
+
+h1 {
+  font-family: 'arvo';
+}
+
+#footer a {
+  font-size: 14px;
+}
+
+/*cover*/
+
+#cover {
+  background: url('ville.jpg') center center no-repeat;
+  background-size: cover;
+  color: white;
+  height: 100%;
+  text-align: center;
+  display: flex;
+  align-items: center;
+
+}
+
+
+#cover-caption{
+            width: 100%;
+}
+
+
+.vertical-spacer {
+                height: 8em;
+}
+
+
+/* cover
+
+
+
+#cover-caption {
+
+      color: white;
+      height: 100%;
+      text-align: center;
+
+
+
+}
+
+#cover {
+            width: 100%;
+             background: url('images/paysage.jpg') center center no-repeat;
+      background-size: cover;
+      display: flex;
+
+
+*/
